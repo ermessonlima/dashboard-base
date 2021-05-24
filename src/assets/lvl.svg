@@ -1,0 +1,12 @@
+<svg id="Componente_106_1" data-name="Componente 106 – 1" xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <circle id="Elipse_27" data-name="Elipse 27" cx="31.5" cy="31.5" r="31.5"/>
+  <g id="logo_lvl" transform="translate(11.813 21.263)">
+    <g id="Grupo_1777" data-name="Grupo 1777">
+      <path id="Caminho_475" data-name="Caminho 475" d="M12.708,19.639H4.737A4.742,4.742,0,0,1,0,14.9V0H3.279V14.9a1.459,1.459,0,0,0,1.458,1.458h7.972Z" fill="#ff0201"/>
+    </g>
+    <g id="Grupo_1778" data-name="Grupo 1778" transform="translate(26.667)">
+      <path id="Caminho_476" data-name="Caminho 476" d="M134.708,19.639h-7.972A4.742,4.742,0,0,1,122,14.9V0h3.279V14.9a1.459,1.459,0,0,0,1.458,1.458h7.972Z" transform="translate(-122)" fill="#ff0201"/>
+    </g>
+    <path id="Caminho_477" data-name="Caminho 477" d="M59.539,0,54.228,14.6,51.179,6.234H47.69l4.418,12.118c0,.011.007.02.011.031a2.241,2.241,0,0,0,2.107,1.445h.013a2.247,2.247,0,0,0,2.107-1.478L63.032,0Z" transform="translate(-37.266)" fill="#ff0201"/>
+  </g>
+</svg>

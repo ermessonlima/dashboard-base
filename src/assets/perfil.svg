@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="170" viewBox="0 0 170 170">
+  <g id="Grupo_568" data-name="Grupo 568" transform="translate(-522 -228)">
+    <g id="Avatar_User" data-name="Avatar User" transform="translate(522 228)">
+      <circle id="Elipse_69" data-name="Elipse 69" cx="85" cy="85" r="85" fill="#eaeef2"/>
+      <g id="Grupo_1168" data-name="Grupo 1168" transform="translate(-1563 -54)">
+        <path id="Caminho_455" data-name="Caminho 455" d="M185.863,129.727A34.863,34.863,0,1,0,151,94.863,34.9,34.9,0,0,0,185.863,129.727Z" transform="translate(1462.137 13.922)" fill="#d1d7de"/>
+        <path id="Caminho_456" data-name="Caminho 456" d="M194.6,311.768A34.894,34.894,0,0,0,168.481,300H108.716A34.894,34.894,0,0,0,82.6,311.768l-2.361,2.668,1.762,3.1a65.093,65.093,0,0,0,113.192,0l1.762-3.1Z" transform="translate(1509.401 -146.391)" fill="#d1d7de"/>
+      </g>
+    </g>
+    <g id="Grupo_1161" data-name="Grupo 1161">
+      <g id="Elipse_64" data-name="Elipse 64" transform="translate(652 358)" fill="#eaeef2" stroke="#fff" stroke-width="2">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="19" fill="none"/>
+      </g>
+      <path id="camera" d="M17.3,6.2H16.148l-.288-.9A2.7,2.7,0,0,0,13.3,3.5H8.7A2.7,2.7,0,0,0,6.14,5.345l-.288.9H4.7A2.7,2.7,0,0,0,2,8.945v7.2a2.7,2.7,0,0,0,2.7,2.7H17.3a2.7,2.7,0,0,0,2.7-2.7v-7.2A2.7,2.7,0,0,0,17.3,6.2Zm.9,9.9a.9.9,0,0,1-.9.9H4.7a.9.9,0,0,1-.9-.9V8.9A.9.9,0,0,1,4.7,8H6.5a.9.9,0,0,0,.9-.612l.486-1.476A.9.9,0,0,1,8.741,5.3h4.608a.9.9,0,0,1,.855.612l.486,1.476A.9.9,0,0,0,15.5,8h1.8a.9.9,0,0,1,.9.9ZM11,8a3.6,3.6,0,1,0,3.6,3.6A3.6,3.6,0,0,0,11,8Zm0,5.4a1.8,1.8,0,1,1,1.8-1.8A1.8,1.8,0,0,1,11,13.4Z" transform="translate(661 366.5)" fill="#797f86"/>
+    </g>
+  </g>
+</svg>
